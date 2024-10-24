@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jin Choi"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/headshot.JPG"
   bio    : "Jin is an interdisciplinary communication scholar studying belonging and exclusion."
   links:
     - label: "Google Scholar"
