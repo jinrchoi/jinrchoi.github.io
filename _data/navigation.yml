@@ -1,11 +1,11 @@
 main:
-  - title: "Presentations"
-    url: /presentations/
-  - title: "Projects"
-    url: /projects/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Publications"
-    url: /publications/
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "DH"
+    url: /dh/
+  - title: "Creative"
+    url: /creative/
