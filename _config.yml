@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jin Choi"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "Jin is an interdisciplinary communication scholar studying belonging and exclusion."
+  bio    : "Ph.D. candidate and Flagship Fellow in the Department of Communication at the University of Maryland."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jinrchoi"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "https://www.linkedin.com/in/jinrchoi/"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jinrchoi"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "https://www.linkedin.com/in/jinrchoi/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
