@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jinrchoi"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jinrchoi/"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jinrchoi"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jinrchoi/"
 
 defaults:
