@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 Jin's [research](research.md) focuses on themes of intersectionality, imperialism, and transnational feminisms. Her dissertation critically examines heteronormative reproductive citizenship in contemporary South Korea within the context of a declining fertility rate "crisis." Other ongoing projects center digital media and platforms across transnational queer and feminist communities in South Korea and beyond. 
