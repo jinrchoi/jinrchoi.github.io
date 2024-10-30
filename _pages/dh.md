@@ -1,5 +1,5 @@
 ---
-permalink: /DH/
+permalink: /dh/
 title: "DH"
 layout: single
 classes: wide
