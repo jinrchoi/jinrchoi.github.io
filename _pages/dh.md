@@ -11,6 +11,8 @@ classes: wide
 
 **["Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators."](https://arcg.is/008aze)**
 
+![dh-storymaps](/assets/images/dh-storymaps.png)
+
 > Developed in 2023. 
 > Taught in AAST498G Asian American Women and Gender guest lecture, 2024.
 >
@@ -19,6 +21,8 @@ classes: wide
 #### *Tool:* Tableau
 
 **[“Top 15 Migrating Countries to South Korea (2013 vs. 2023).”](https://public.tableau.com/app/profile/jin.choi2973/viz/Top15MigratingCountriestoSouthKorea2013vs_2023/Dashboard1)**
+
+![dh-tableau](/assets/images/dh-tableau.png)
 
 > Developed in 2023, Data Visualization, College of Information, University of Maryland.
 >
