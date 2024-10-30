@@ -5,6 +5,16 @@ layout: single
 classes: wide
 ---
 
+### 🏆 Teaching Awards & Certifications
+- Andrew D. Wolvin Outstanding Teaching Award, Department of Communication, University of Maryland
+
+![teachingaward](/assets/images/teachingaward.png)
+
+- Title IX Training, University of Maryland
+- Anti-Racist Pedagogy Badge, Teaching and Learning Transformation Center, University of Maryland
+- Formative Assessments Badge, Teaching and Learning Transformation Center, University of Maryland
+- Teaching Essentials Badge, Teaching and Learning Transformation Center, University of Maryland
+
 ### 📝 Courses
 #### HDCC201: Capstone Proposal Through Design Thinking
 
@@ -22,7 +32,7 @@ classes: wide
 
 > *Instructor, Department of Communication, University of Maryland.*
 
-### Guest Lectures
+### 📝 Guest Lectures
 #### AAST498G: Asian American Women and Gender
 
 > *Asian American Studies Program, University of Maryland*
@@ -39,6 +49,6 @@ classes: wide
 > *Department of Communication, University of Maryland.*
 > Guest lecture on transnational feminism and queer theory. 2024.
 
-### Colloquia
+### 📝 Colloquia
 #### “DH Pedagogy: Teaching Design to ‘Non-Design’ Students.” Digital Studies in the Arts and Humanities Colloquium, University of Maryland, December 1.
 #### “Space and the City: Communicating Race, Place, and Culture.” Department of Communication, University of Maryland, March 29.
