@@ -1,6 +1,8 @@
 ---
 permalink: /Research/
 title: "Research"
+layout: single
+classes: wide
 ---
 
 ### 📚 Dissertation 
