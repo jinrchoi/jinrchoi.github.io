@@ -1,6 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+layout: single
+classes: wide
 ---
 
 ### 📝 Courses
