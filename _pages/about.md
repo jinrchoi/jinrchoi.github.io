@@ -14,3 +14,5 @@ Jin teaches at the [Design Cultures & Creativity Living Learning Program](https:
 Dedicated to both a humanistic inquiry into the digital and the usage of digital tools to study the humanities, Jin is always playing with a new digital tool to incorporate into the classroom. Her completed and ongoing projects use ArcGIS StoryMaps, Tableau, Twine, and other tools to teach on topics of gender, sexuality, race, imperialism, and imaginative futures. 
 
 For Jin's CV, please reach out at jinrchoi at umd dot edu.
+
+![tokyorose](/assets/images/tokyorose.JPG)
