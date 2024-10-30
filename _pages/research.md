@@ -18,6 +18,7 @@ classes: wide
 > - Case Study 2: How do non-reproductive gendered citizens reframe national belonging beyond reproduction? Or, how do citizens demand a reproduction of livability from a state that demands the reproduction of life?
 > - Case Study 3: How does the racialized migrant care worker illuminate the state’s ideals of the racially desirable reproductive citizen? Or, how does the rhetorical discourse surrounding migrant care workers in South Korea point to the racialized dimensions of the fertility rate crisis? 
 
+![pres](/assets/images/pres.JPG)
 
 ### 📖 Articles Under Review
 
@@ -30,6 +31,8 @@ classes: wide
 
 #### Tokyo Rose and Seoul City Sue: Citizenship, Belonging, Racial Rhetorical Ecologies
 
+> ![tokyorose](/assets/images/tokyorose.JPG)
+>
 > *Recognized as a part of the Laureate Group for the James L. Golden Outstanding Student Essay in Rhetoric Award.*
 >
 > *Presented at National Communication Association 109th Annual Convention, 2023.*
@@ -53,3 +56,5 @@ Throughout the book, V. Jo Hsu conceptualizes and works with the following key t
 #### Review of The Color of Creatorship: Intellectual Property, Race, and the Making of Americans by Anjali Vats. New Genetics and Society 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. 
 
 > In the National Portrait Gallery hangs Christian Schussele’s 1862 painting, Men of Progress. It depicts nineteen white men surrounded by inventions and drawings, celebrating American economic progress of the nineteenth century. What racialized myths and feelings about creatorship, citizenship, and intellectual property does this piece draw upon and play into? Anjali Vats answers this question and more in The Color of Creatorship: Intellectual Property, Race, and the Making of Americans, investigating the coding of citizenship and creatorship along Euro-American racial scripts. [Read more](https://www.tandfonline.com/doi/full/10.1080/14636778.2021.1951194)
+
+![panel](/assets/images/panel.png)
