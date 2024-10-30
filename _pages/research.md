@@ -7,10 +7,10 @@ classes: wide
 
 ### 📚 Dissertation 
 
-#### *To Reproduce is to Love the Nation: Negotiating Normative Citizenship Amidst Biopolitical Crisis*
+*To Reproduce is to Love the Nation: Negotiating Normative Citizenship Amidst Biopolitical Crisis*
 
-> *Dissertation Committee: Dr. Carly Woods, Dr. Damien Pfister, Dr. Catherine Knight Steele, Dr. Kristy Maddux, Dr. Edlie Wong*
->
+- Dissertation Committee: Dr. Carly Woods, Dr. Damien Pfister, Dr. Catherine Knight Steele, Dr. Kristy Maddux, Dr. Edlie Wong
+
 > *Research Questions*
 > 
 > - Overarching: What are the rhetorical conditions of citizenship and national belonging in contemporary South Korea amidst a low fertility rate crisis?
@@ -22,21 +22,20 @@ classes: wide
 
 ### 📖 Articles Under Review
 
-#### Situating Public Memory Within a Transnational Global Memoryscape: “Comfort Women,” Monuments, and White Sexual Imperialism
+"Situating Public Memory Within a Transnational Global Memoryscape: “Comfort Women,” Monuments, and White Sexual Imperialism."
 
-> Presented at 20th Biennial Conference of the Rhetoric Society of America, 2022.
->
+- Presented at 20th Biennial Conference of the Rhetoric Society of America, 2022.
+
 > Abstract: This paper offers a rhetorical analysis of the San Francisco “Comfort Women” Column of Strength memorial, one of the few monuments in the United States depicting Asian women. I argue that the monument is a site of national forgetting that contributes to U.S. collective and historical amnesia regarding the violent rhetorical ecologies in which Asian women dwell in the U.S. Placing the monument within the theoretical framework of global memoryscapes and white sexual imperialism, I argue that a transnational global memoryscape framework allows one to better understand the imperialized, racialized, and gendered violence against Asian women as a transnational and relevant issue. Ultimately, I argue that a critical, transnational lens on public memory is imperative to situate national public memories within a global context as memories flow across borders via media, culture, and communication.
 > 
 
-#### Tokyo Rose and Seoul City Sue: Citizenship, Belonging, Racial Rhetorical Ecologies
+"Tokyo Rose and Seoul City Sue: Citizenship, Belonging, Racial Rhetorical Ecologies."
 
-> ![tokyorose](/assets/images/tokyorose.JPG)
->
-> *Recognized as a part of the Laureate Group for the James L. Golden Outstanding Student Essay in Rhetoric Award.*
->
-> *Presented at National Communication Association 109th Annual Convention, 2023.*
->
+- Recognized as a part of the Laureate Group for the James L. Golden Outstanding Student Essay in Rhetoric Award.
+- Presented at National Communication Association 109th Annual Convention, 2023.
+
+![tokyorose](/assets/images/tokyorose.JPG)
+
 > *Abstract:* Citizenship is a fluctuating category of identity and belonging that relies heavily on a nation’s imagined collective meanings of race and gender at a specific time, place, and context. Through primary and secondary materials such as archival materials and newspaper accounts, I build upon rhetorical scholarship centering
 race and the function of rhetoric to create material realities to examine how two female 20th century war radio “propogandists,” Iva Toguri D’Aquino (widely
 known as Tokyo Rose) and Ann Wallace Suh (widely known as Seoul City Sue), figured differently in the U.S. public’s rhetorical imagination and unique racial
@@ -47,17 +46,30 @@ ever-evolving racial fears.
 
 ![pres](/assets/images/pres.JPG)
 
+### Book Chapters
+
+“Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.” In *Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea*, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. Forthcoming.
+
+- Awarded Top Paper Award at Korean American Communication Association, National Communication Association 107th Annual Convention, 2021.
+  
+> "What are the ways in which national memory and consumption intersect to create different ways of belonging? In this piece, I examine the site of Ikseon-dong Hanok Village and its invitation to consume artifacts that draw upon a shared national history, an invitation to partake via consumption. I identify places such as these as cosmopolitan and glocalized, engaging in a transnational and economic citizenship. Building upon Sharon Shui-yin Yam’s term of a cosmopolitan consumer subject, referring to economic par- ticipants in transnational brands (Yam 2017), I shift my attention to the spaces that such subjects occupy, these glocalized cosmopolitan spaces of belonging..."
+> 
+
+Parry-Giles, Trevor, Divine Aboagye, **Jin R. Choi**, Taylor Hourigan, Megu Itoh, Carolyn Robbins, Matthew Salzano, Kalin Schultz, and Shelby Sturm. “Mediating Race and Gender in Campaign 2020: The Cooking with Kamala Videos.” In *Democracy Disrupted: Communication in the Volatile 2020 Presidential Election*, edited by Benjamin R. Warner, Dianne G. Bystrom, Mitchell S. McKinney, and Mary C. Banwart, 21–37. ABC-CLIO, 2022.
+
+> "With her YouTube cooking videos, Harris cooks herself out of containn1ent in a reformative, although not revolutionary, way. Still operating within the bounds of the "exotic" and the feminine, Harris takes the topic of her heritage to rein vent her Otherness into a curious yet safe experience of culinary tourism and culinary citizenship for her largely nonimmigrant audience. Her differences are just interesting, curious, and fresh enough to be enjoyable, not threatening..."
+
 ### 🔖 Book Reviews
 
-#### Review of Constellating Home: Trans and Queer Asian American Rhetorics by V. Jo Hsu. Rhetoric & Public Affairs. Forthcoming.
+Review of *Constellating Home: Trans and Queer Asian American Rhetorics* by V. Jo Hsu. Rhetoric & Public Affairs. Forthcoming.
 
-> *Constellating Home: Trans and Queer Asian American Rhetorics* explores three trans and queer Asian American archives to ask, how can homing
+> "*Constellating Home: Trans and Queer Asian American Rhetorics* explores three trans and queer Asian American archives to ask, how can homing
 as a form of storytelling assist in situating trans and queer Asian Americans (QTAPI) in the United States’ broader narrative of belonging?
-Throughout the book, V. Jo Hsu conceptualizes and works with the following key terms: *homing*, a critical approach to storytelling...
+Throughout the book, V. Jo Hsu conceptualizes and works with the following key terms: *homing*, a critical approach to storytelling..."
 
-#### Review of The Color of Creatorship: Intellectual Property, Race, and the Making of Americans by Anjali Vats. New Genetics and Society 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. 
+Review of *The Color of Creatorship: Intellectual Property, Race, and the Making of Americans* by Anjali Vats. New Genetics and Society 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. 
 
-> In the National Portrait Gallery hangs Christian Schussele’s 1862 painting, Men of Progress. It depicts nineteen white men surrounded by inventions and drawings, celebrating American economic progress of the nineteenth century. What racialized myths and feelings about creatorship, citizenship, and intellectual property does this piece draw upon and play into? Anjali Vats answers this question and more in The Color of Creatorship: Intellectual Property, Race, and the Making of Americans, investigating the coding of citizenship and creatorship along Euro-American racial scripts. [Read more](https://www.tandfonline.com/doi/full/10.1080/14636778.2021.1951194)
+> "In the National Portrait Gallery hangs Christian Schussele’s 1862 painting, Men of Progress. It depicts nineteen white men surrounded by inventions and drawings, celebrating American economic progress of the nineteenth century. What racialized myths and feelings about creatorship, citizenship, and intellectual property does this piece draw upon and play into? Anjali Vats answers this question and more in The Color of Creatorship: Intellectual Property, Race, and the Making of Americans, investigating the coding of citizenship and creatorship along Euro-American racial scripts. [Read more](https://www.tandfonline.com/doi/full/10.1080/14636778.2021.1951194)"
 
 ### Selected Conference Panels 
 
