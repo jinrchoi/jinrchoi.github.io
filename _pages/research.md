@@ -34,8 +34,6 @@ classes: wide
 - Recognized as a part of the Laureate Group for the James L. Golden Outstanding Student Essay in Rhetoric Award.
 - Presented at National Communication Association 109th Annual Convention, 2023.
 
-![tokyorose](/assets/images/tokyorose.JPG)
-
 > *Abstract:* Citizenship is a fluctuating category of identity and belonging that relies heavily on a nation’s imagined collective meanings of race and gender at a specific time, place, and context. Through primary and secondary materials such as archival materials and newspaper accounts, I build upon rhetorical scholarship centering
 race and the function of rhetoric to create material realities to examine how two female 20th century war radio “propogandists,” Iva Toguri D’Aquino (widely
 known as Tokyo Rose) and Ann Wallace Suh (widely known as Seoul City Sue), figured differently in the U.S. public’s rhetorical imagination and unique racial
