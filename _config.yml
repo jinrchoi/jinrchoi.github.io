@@ -62,30 +62,27 @@ author:
   avatar : "/assets/images/headshot.JPG"
   bio    : "Ph.D. candidate and Flagship Fellow in the Department of Communication at the University of Maryland."
   links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/jinrchoi/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jinrchoi"
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/jinrchoi/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
+      url: "https://x.com/jinrchoi"      
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/jinrchoi/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jinrchoi"
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/jinrchoi/"
 
 # Make all pages wide by default
 defaults:
