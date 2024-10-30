@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-Jin's [research](research.md) focuses on themes of intersectionality, imperialism, and transnational feminisms. Her dissertation critically examines heteronormative reproductive citizenship in contemporary South Korea within the context of a declining fertility rate "crisis." Other ongoing projects center digital media and platforms across transnational queer and feminist communities in South Korea and beyond. 
+Jin's [research](research.md) focuses on themes of intersectionality, imperialism, and transnational feminisms. Her dissertation critically examines the rhetorical formation of heteronormative reproductive citizenship in contemporary South Korea within the context of a declining fertility rate "crisis." Other ongoing projects center digital media and platforms across transnational queer and feminist communities in South Korea and beyond. 
 
 Jin teaches at the [Design Cultures & Creativity Living Learning Program](https://dcc.umd.edu/) within the Honors College at the University of Maryland. DCC is a selective interdisciplinary honors program for first- and second-year students critically tackling questions at the intersections of art, emerging technologies, digital media, society, and global issues. Outside of DCC, Jin has guest lectured in communication and Asian American gender undergraduate courses.
 
