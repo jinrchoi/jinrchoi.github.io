@@ -4,9 +4,9 @@ title: "Teaching"
 ---
 
 ### 📝 Courses
-#### HDCC201: Capstone in 
+#### HDCC201: Capstone Proposal Through Design Thinking
 > *Instructor, Design Cultures & Creativity Program, University of Maryland.*
-#### HDCC209: Capstone in 
+#### HDCC209: Practicum in Design Cultures & Creativity
 > *Instructor, Design Cultures & Creativity Program, University of Maryland.*
 #### HDCC105: Introduction to Design, Cultures, and Creativity
 > *Graduate Assistant, Design Cultures & Creativity Program, University of Maryland.*
