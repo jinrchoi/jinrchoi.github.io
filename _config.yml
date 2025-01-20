@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jin R. Choi"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "jinrchoi@umd.edu."
+  bio    : "jinrchoi at umd dot edu"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
