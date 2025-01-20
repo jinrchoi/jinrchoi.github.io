@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jin R. Choi"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "Ph.D. Candidate & Flagship Fellow, Department of Communication, University of Maryland."
+  bio    : "jinrchoi@umd.edu."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
