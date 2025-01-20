@@ -34,3 +34,10 @@ h1, h2, h3 {
   background-color: #FFD700; /* Gold background color */
   color: #000; /* Black text color */
 }
+
+/* Optional: Remove All List Margins If you prefer no extra spacing around lists entirely, you can override the default margins globally. */
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
