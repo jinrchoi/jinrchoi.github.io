@@ -58,6 +58,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-sass-converter
 
+sass:
+  style: compressed # Optional: compressed or expanded output
+
+baseurl: "" # For root domain (e.g., https://jinrchoi.com)
+
+
 author:
   name   : "Jin R. Choi"
   avatar : "/assets/images/headshot.JPG"
