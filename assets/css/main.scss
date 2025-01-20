@@ -35,6 +35,20 @@ h1, h2, h3 {
   color: #000; /* Black text color */
 }
 
+/* Remove extra margin between bold text and lists */
+strong + ul,
+strong + ol,
+b + ul,
+b + ol {
+  margin-top: 0; /* Remove top margin */
+}
+
+/* Optional: Adjust paragraph spacing before lists */
+p + ul,
+p + ol {
+  margin-top: 0;
+}
+
 /* Optional: Remove All List Margins If you prefer no extra spacing around lists entirely, you can override the default margins globally. */
 ul,
 ol {
