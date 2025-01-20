@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jin Choi"
+  name   : "Jin R. Choi"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "Ph.D. candidate and Flagship Fellow in the Department of Communication at the University of Maryland."
+  bio    : "Ph.D. Candidate & Flagship Fellow, Department of Communication, University of Maryland."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
