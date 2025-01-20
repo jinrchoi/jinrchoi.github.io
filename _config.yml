@@ -67,7 +67,7 @@ author:
   avatar : "/assets/images/headshot.JPG"
   bio    : "Reach me at jinrchoi at umd dot edu."
   links:
-     label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jinrchoi/"
     - label: "Google Scholar"
