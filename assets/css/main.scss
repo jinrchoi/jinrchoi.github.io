@@ -35,6 +35,7 @@ h1, h2, h3 {
   color: #000; /* Black text color */
 }
 
+
 /* Remove extra margin between bold text and lists */
 strong + ul,
 strong + ol,
@@ -48,6 +49,17 @@ p + ul,
 p + ol {
   margin-top: 0;
 }
+
+ul, ol {
+  margin-top: 0; /* No space above */
+  margin-bottom: 0; /* No space below */
+  padding-left: 1.5em; /* Align with other text */
+}
+
+li {
+  margin-bottom: 0.4em; /* Spacing between list items */
+}
+
 
 /* Remove default bullet points */
 ul {
