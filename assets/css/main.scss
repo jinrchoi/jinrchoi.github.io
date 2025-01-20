@@ -3,6 +3,12 @@
 ---
 @import "minimal-mistakes"; // Preserves the default theme styles
 
+/* Apply Noto Sans Mono to the entire site */
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
+}
+
+/* Optional: Customize specific elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans Mono', monospace;
 }
