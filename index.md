@@ -9,11 +9,12 @@ author_profile: true
 **Education**  
 Ph.D. Candidate in Communication, University of Maryland    
 M.A. in Communication, University of Maryland    
-Graduate Certificate in Digital Studies in the Arts and Humanities, University of Maryland    
+Graduate Certificate in Digital Studies in the Arts and Humanities, University of Maryland [↗](https://www.dsah.umd.edu/)    
 B.A. in Communication Arts and Sociology, Gordon College  
 
 **Research Areas**  
-Critical transnational rhetoric; queer & feminist studies; race/ethnicity studies; digital humanities & digital cultures; South Korea, Asia, & U.S.
+Critical transnational rhetoric; queer & feminist studies; race/ethnicity studies; digital humanities & digital cultures; South Korea, Asia, & U.S.  
+Dissertation: Reproduction, biopolitics, heteronormativity, citizenship in South Korea amidst low fertility rate discourse  
 
 **Recognitions (selected)**  
 - Flagship Fellowship, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/flagship-fellowship)
@@ -32,9 +33,12 @@ Critical transnational rhetoric; queer & feminist studies; race/ethnicity studie
 - Tableau. Interactive data visualization. “Top 15 Migrating Countries to South Korea (2013 vs. 2023).” [↗](https://public.tableau.com/views/Top15MigratingCountriestoSouthKorea2013vs_2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Teaching (current)**  
-Design Cultures & Creativity Living-Learning Program, Honors College, University of Maryland [↗](https://dcc.umd.edu/)
+Design Cultures & Creativity Living-Learning Program, Honors College, University of Maryland [↗](https://dcc.umd.edu/)  
 
-
-
+**Conference Participation**  
+- National Communication Association
+- Association for Asian American Studies
+- Association for Asian Studies
+- Rhetoric Society of America
 
 
