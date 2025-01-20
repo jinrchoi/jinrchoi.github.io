@@ -49,3 +49,15 @@ p + ol {
   margin-top: 0;
 }
 
+/* Remove default bullet points */
+ul {
+  list-style-type: none;
+  padding-left: 1.5em; /* Add padding to align text */
+}
+
+/* Add custom bullet points with `::before` */
+ul li::before {
+  content: '·'; /* Use the middle dot symbol */
+  margin-right: 0.5em; /* Space between the bullet and text */
+  line-height: 1; /* Align properly with text */
+}
