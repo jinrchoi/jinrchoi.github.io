@@ -29,42 +29,11 @@ h1, h2, h3 {
   color: #000; /* Black text color */
 }
 
-/* Optional: For better browser compatibility */
-*::selection {
-  background-color: #FFD700; /* Gold background color */
-  color: #000; /* Black text color */
-}
-
-
-/* Remove extra margin between bold text and lists */
-strong + ul,
-strong + ol,
-b + ul,
-b + ol {
-  margin-top: 0; /* Remove top margin */
-}
-
-/* Optional: Adjust paragraph spacing before lists */
-p + ul,
-p + ol {
-  margin-top: 0;
-}
-
-ul, ol {
-  margin-top: 0; /* No space above */
-  margin-bottom: 0; /* No space below */
-  padding-left: 1.5em; /* Align with other text */
-}
-
-li {
-  margin-bottom: 0.4em; /* Spacing between list items */
-}
 
 
 /* Remove default bullet points */
 ul {
   list-style-type: none;
-  padding-left: 1.5em; /* Add padding to align text */
 }
 
 /* Add custom bullet points with `::before` */
