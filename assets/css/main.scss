@@ -31,14 +31,3 @@ h1, h2, h3 {
 
 
 
-/* Remove default bullet points */
-ul {
-  list-style-type: none;
-}
-
-/* Add custom bullet points with `::before` */
-ul li::before {
-  content: '·'; /* Use the middle dot symbol */
-  margin-right: 0.5em; /* Space between the bullet and text */
-  line-height: 1; /* Align properly with text */
-}
