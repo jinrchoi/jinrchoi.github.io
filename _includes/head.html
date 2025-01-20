@@ -1,1 +1,20 @@
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Page Title -->
+  <title>{{ page.title | default: "Jin R. Choi" }}</title>
+
+  <!-- Site Description (optional for SEO) -->
+  <meta name="description" content="{{ page.excerpt | strip_html | default: site.description | escape }}">
+
+  <!-- Favicon -->
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
+
+  <!-- Google Fonts: Noto Sans Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Link to your CSS -->
+  <link rel="stylesheet" href="https://jinrchoi.com/assets/css/main.css">
+</head>
