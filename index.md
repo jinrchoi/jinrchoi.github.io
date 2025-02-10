@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 **Education**  
-Ph.D. Candidate in Communication, University of Maryland    
+Ph.D. Candidate in Communication, University of Maryland [↗](https://communication.umd.edu/)    
 M.A. in Communication, University of Maryland    
 Graduate Certificate in Digital Studies in the Arts and Humanities, University of Maryland [↗](https://www.dsah.umd.edu/)    
 B.A. in Communication Arts and Sociology, Gordon College  
@@ -19,7 +19,7 @@ Dissertation: Reproduction, biopolitics, heteronormativity, citizenship in South
 **Recognitions (selected)**  
 - Flagship Fellowship, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/flagship-fellowship)
 - Bonnie Thornton Dill Dean's Graduate Research Award, College of Arts and Humanities, University of Maryland [↗](https://arhu.umd.edu/academics/graduate-studies/fellowships-grants-awards) 
-- Andrew D. Wolvin Outstanding Teaching Award, Department of Communication, University of Maryland
+- Andrew D. Wolvin Outstanding Teaching Award, Department of Communication, University of Maryland [↗](https://communication.umd.edu/news/2024-annual-departmental-awards)
 - James L. Golden Outstanding Student Essay in Rhetoric Award Laureate Group, National Communication Association 109th Convention  
 - Top Paper Award, Korean American Communication Association, National Communication Association 107th Annual Convention
 
