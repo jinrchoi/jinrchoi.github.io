@@ -17,7 +17,8 @@ Critical transnational rhetoric; queer & feminist studies; race/ethnicity studie
 Dissertation: Reproduction, biopolitics, heteronormativity, citizenship in South Korea amidst low fertility rate discourse  
 
 **Recognitions (selected)**  
-- Flagship Fellowship, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/flagship-fellowship)
+- Ann G. Wylie Dissertation Fellowship, College of Arts and Humanities, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/dissertation-fellowship)
+- Flagship Fellowship, College of Arts and Humanities, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/flagship-fellowship)
 - Bonnie Thornton Dill Dean's Graduate Research Award, College of Arts and Humanities, University of Maryland [↗](https://arhu.umd.edu/academics/graduate-studies/fellowships-grants-awards) 
 - Andrew D. Wolvin Outstanding Teaching Award, Department of Communication, University of Maryland [↗](https://communication.umd.edu/news/2024-annual-departmental-awards)
 - James L. Golden Outstanding Student Essay in Rhetoric Award Laureate Group, National Communication Association 109th Convention  
@@ -25,15 +26,16 @@ Dissertation: Reproduction, biopolitics, heteronormativity, citizenship in South
 
 **Publications (selected)**  
 - Choi, Jin R. “Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.” In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025. [↗](https://drive.google.com/file/d/1khgcQ1MKYHkJeBuMWFC8ZP0XJdyYuVWV/view?usp=sharing)
-- Choi, Jin R. Review of _Constellating Home: Trans and Queer Asian American Rhetorics_ by V. Jo Hsu. _Rhetoric & Public Affairs_. Forthcoming.  
+- Choi, Jin R. Review of _Constellating Home: Trans and Queer Asian American Rhetorics_ by V. Jo Hsu. _Rhetoric & Public Affairs_ 27, no. 1 (March 1, 2024): 135–38. https://doi.org/10.14321/rhetpublaffa.27.1.0135. [↗](https://drive.google.com/file/d/1EKWl4-X6WD99TIsmilOCvKixNonm6AYl/view?usp=sharing)  
 - Choi, Jin R. Review of _The Color of Creatorship: Intellectual Property, Race, and the Making of Americans_ by Anjali Vats. _New Genetics and Society_ 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. [↗](https://drive.google.com/file/d/1MV1alXk2h3_LBMfrPEQQ7hSYrdNGUIla/view?usp=sharing)
 
 **Digital Humanities Projects (selected)**  
 - ArcGIS StoryMaps. “Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.” [↗](https://arcg.is/008aze)
 - Tableau. Interactive data visualization. “Top 15 Migrating Countries to South Korea (2013 vs. 2023).” [↗](https://public.tableau.com/views/Top15MigratingCountriestoSouthKorea2013vs_2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Teaching (current)**  
-Design Cultures & Creativity Living-Learning Program, Honors College, University of Maryland [↗](https://dcc.umd.edu/)  
+**Teaching**  
+- Currently: Design Cultures & Creativity Living-Learning Program, Honors College, University of Maryland [↗](https://dcc.umd.edu/)
+- Previously: Department of Communication, University of Maryland [↗](https://communication.umd.edu/)  
 
 **Conference Participation**  
 - National Communication Association
