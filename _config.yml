@@ -72,10 +72,7 @@ author:
       url: "https://www.linkedin.com/in/jinrchoi/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jinrchoi"      
+      url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"   
 
 footer:
   links:
@@ -85,9 +82,6 @@ footer:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=7moDONkAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jinrchoi"
 
 # Make all pages wide by default
 defaults:
