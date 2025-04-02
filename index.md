@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 **Education**  
-- Ph.D. Candidate in Communication, University of Maryland [↗](https://communication.umd.edu/)    
+- Ph.D. Candidate in Communication, University of Maryland (Ph.D. expected May 2026) [↗](https://communication.umd.edu/)    
 - M.A. in Communication, University of Maryland    
 - Graduate Certificate in Digital Studies in the Arts and Humanities, University of Maryland [↗](https://www.dsah.umd.edu/)    
 - B.A. in Communication Arts and Sociology, Gordon College  
