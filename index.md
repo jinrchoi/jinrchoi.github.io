@@ -25,7 +25,7 @@ author_profile: true
 - Top Paper Award, Korean American Communication Association, National Communication Association 107th Annual Convention
 
 **Publications**  
-- Choi, Jin R. "The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes." _Women's Studies in Communication_, accepted 2025 and forthcoming.
+- Choi, Jin R. "The U.S. Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes." _Women's Studies in Communication_, accepted 2025 and forthcoming.
 - Choi, Jin R. “Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.” In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025. [↗](https://drive.google.com/file/d/1khgcQ1MKYHkJeBuMWFC8ZP0XJdyYuVWV/view?usp=sharing)
 - Choi, Jin R. Review of _Constellating Home: Trans and Queer Asian American Rhetorics_ by V. Jo Hsu. _Rhetoric & Public Affairs_ 27, no. 1 (March 1, 2024): 135–38. https://doi.org/10.14321/rhetpublaffa.27.1.0135. [↗](https://drive.google.com/file/d/1EKWl4-X6WD99TIsmilOCvKixNonm6AYl/view?usp=sharing)  
 - Choi, Jin R. Review of _The Color of Creatorship: Intellectual Property, Race, and the Making of Americans_ by Anjali Vats. _New Genetics and Society_ 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. [↗](https://drive.google.com/file/d/1MV1alXk2h3_LBMfrPEQQ7hSYrdNGUIla/view?usp=sharing)
