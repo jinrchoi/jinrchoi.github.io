@@ -27,12 +27,12 @@ author_profile: true
 **Publications**   
 _Please feel free to email me directly for free PDFs of my work._
 
-- Choi, Jin R. "The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes." _Women's Studies in Communication_, published online 2025. https://doi.org/10.1080/07491409.2025.2489609 
+- Choi, Jin R. "The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes." _Women's Studies in Communication_, published online 2025. [↗](https://doi.org/10.1080/07491409.2025.2489609) 
 - Choi, Jin R. “Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.” In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025. [↗](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003452836-12/belong-ikseon-dong-jin-choi)
-- Choi, Jin R. Review of _Constellating Home: Trans and Queer Asian American Rhetorics_ by V. Jo Hsu. _Rhetoric & Public Affairs_ 27, no. 1 (March 1, 2024): 135–38. https://doi.org/10.14321/rhetpublaffa.27.1.0135. 
-- Choi, Jin R. Review of _The Color of Creatorship: Intellectual Property, Race, and the Making of Americans_ by Anjali Vats. _New Genetics and Society_ 41, no.1 (2022): 1–3. https://doi.org/10.1080/14636778.2021.1951194. 
+- Choi, Jin R. Review of _Constellating Home: Trans and Queer Asian American Rhetorics_ by V. Jo Hsu. _Rhetoric & Public Affairs_ 27, no. 1 (March 1, 2024): 135–38. [↗](https://doi.org/10.14321/rhetpublaffa.27.1.0135)
+- Choi, Jin R. Review of _The Color of Creatorship: Intellectual Property, Race, and the Making of Americans_ by Anjali Vats. _New Genetics and Society_ 41, no.1 (2022): 1–3. [↗](https://doi.org/10.1080/14636778.2021.1951194)
 
-**Digital Humanities Projects (selected)**  
+**Digital Humanities Projects**  
 - ArcGIS StoryMaps. “Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.” [↗](https://arcg.is/008aze)
 - Tableau. Interactive data visualization. “Top 15 Migrating Countries to South Korea (2013 vs. 2023).” [↗](https://public.tableau.com/views/Top15MigratingCountriestoSouthKorea2013vs_2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -44,6 +44,6 @@ _Please feel free to email me directly for free PDFs of my work._
 - National Communication Association
 - Association for Asian American Studies
 - Association for Asian Studies
-- Rhetoric Society of America
+- Rhetoric Society of America  
 
-
+_Please email me directly for my full CV. Thank you!_
