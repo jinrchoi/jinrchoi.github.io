@@ -6,15 +6,12 @@ layout: single
 author_profile: true
 ---
 
-**Education**  
-- Ph.D. Candidate in Communication, University of Maryland (Ph.D. expected May 2026) [↗](https://communication.umd.edu/)    
-- M.A. in Communication, University of Maryland    
-- Graduate Certificate in Digital Studies in the Arts and Humanities, University of Maryland [↗](https://www.dsah.umd.edu/)    
-- B.A. in Communication Arts and Sociology, Gordon College  
-
 **Research Areas**  
 - Critical transnational rhetoric; queer & feminist studies; race/ethnicity studies; digital humanities & digital cultures; South Korea, Asia, & U.S.  
 - Dissertation: Reproduction, biopolitics, heteronormativity, citizenship in South Korea amidst low fertility rate discourse  
+
+**Education**  
+Ph.D. (expected April 2026) and M.A. in Communication at the University of Maryland; Graduate Certificate in Digital Studies in the Arts and Humanities at the University of Maryland; B.A. in Sociology and Communication Arts at Gordon College
 
 **Recognitions (selected)**  
 - Ann G. Wylie Dissertation Fellowship, College of Arts and Humanities, University of Maryland [↗](https://gradschool.umd.edu/funding/student-fellowships-awards/dissertation-fellowship)
@@ -25,7 +22,7 @@ author_profile: true
 - Top Paper Award, Korean American Communication Association, National Communication Association 107th Annual Convention
 
 **Publications**   
-_Please feel free to email me directly for free PDFs of my work._
+_Please feel free to email me directly for PDFs of my work._
 
 - Choi, Jin R. "The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes." _Women's Studies in Communication_, published online 2025. [↗](https://doi.org/10.1080/07491409.2025.2489609) 
 - Choi, Jin R. “Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.” In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025. [↗](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003452836-12/belong-ikseon-dong-jin-choi)
@@ -33,6 +30,7 @@ _Please feel free to email me directly for free PDFs of my work._
 - Choi, Jin R. Review of _The Color of Creatorship: Intellectual Property, Race, and the Making of Americans_ by Anjali Vats. _New Genetics and Society_ 41, no.1 (2022): 1–3. [↗](https://doi.org/10.1080/14636778.2021.1951194)
 
 **Digital Humanities Projects**  
+- Digital classroom pedagogy tool. Co-authored with Dr. Megu Itoh (Rikkyo University). “Transnational Public Memory: Unsettling National Museum Narratives of World War II.” Funded and hosted by American Society for the History of Rhetoric: Expanding the History of Rhetoric Pedagogy Initiative. [↗](https://ashr.org/expanding-the-history-of-rhetoric-pedagogy-initiative/)
 - ArcGIS StoryMaps. “Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.” [↗](https://arcg.is/008aze)
 - Tableau. Interactive data visualization. “Top 15 Migrating Countries to South Korea (2013 vs. 2023).” [↗](https://public.tableau.com/views/Top15MigratingCountriestoSouthKorea2013vs_2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -42,6 +40,7 @@ _Please feel free to email me directly for free PDFs of my work._
 
 **Conferences**  
 - National Communication Association
+- International Communication Association
 - Association for Asian American Studies
 - Association for Asian Studies
 - Rhetoric Society of America  
