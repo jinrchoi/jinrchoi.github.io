@@ -1,1 +1,7 @@
 main:
+  - title: "Research"
+    url: /research.md/
+  - title: "Teaching"
+    url: /teaching.md/
+  - title: "Translation"
+    url: /translation.md/
