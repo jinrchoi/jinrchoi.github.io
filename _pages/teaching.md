@@ -21,7 +21,7 @@ University of Maryland: Andrew D. Wolvin Outstanding Teaching Award; Anti-Racist
 
 _
 
-Beyond the university, I have been a part of communities that pursue learning publicly, outside of institutionalized educational systems. I have experience leading a learning-reading collective for young adults in Seoul, as seen below.  
+I am passionate about cultivating communities and spaces of learning beyond the university, as I have benefited greatly from such opportunities. I have experience leading a learning-reading collective for young adults in Seoul, as seen below.  
 
 **Young Readers' Collective (2021, Seoul, Korea)**  
 After-school reading group for teens, engaging with _The New York Times_ and _The Penguin Book of Modern Speeches_ in critical discussion and reflective activities about the climate crisis, mobility and belonging, and international politics.
