@@ -65,7 +65,7 @@ baseurl: "" # For root domain (e.g., https://jinrchoi.com)
 author:
   name   : "Hi, I'm Jin."
   avatar : "/assets/images/headshot2.JPG"
-  bio    : "Reach me at jinrebekahchoi at gmail dot com."
+  bio    : "Scholar, teacher, translator/writer in communication and transnational queer/feminist studies."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
