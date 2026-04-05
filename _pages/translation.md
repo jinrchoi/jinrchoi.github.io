@@ -3,7 +3,7 @@ permalink: /translation/
 title: "Translation"
 ---
 
-I translate literature and non-fiction from Korean to English, mainly drawn to works that contain feminist themes, social critique, and introspective reflection. My work has been supported by the Publication Industry Promotion Agency of Korea (KPIPA), and I am represented by Ivan Mulcahy and Seo Park at International Creative Agency.      
+I translate literature and non-fiction from Korean to English, mainly drawn to works that contain feminist themes, social critique, and introspective reflection. My work has been supported by the Publication Industry Promotion Agency of Korea (KPIPA), and I am represented by [Ivan Mulcahy](https://www.internationalcreative.agency/ivan-mulcahy) and [Seo Park](https://www.internationalcreative.agency/seo-park) at International Creative Agency.      
 
 **Fiction (samples and synopses)**  
 — My Crazy Feminist Girlfriend 나의 미친 페미니스트 여자친구 by Min Jihyoung  
