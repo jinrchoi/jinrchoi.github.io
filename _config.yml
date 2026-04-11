@@ -16,7 +16,7 @@
 title: Jin R. Choi
 email: jinrebekahchoi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jin is a Ph.D. candidate and Flagship Fellow in the Department of Communication at the University of Maryland.
+  Jin is a scholar, teacher, and translator/writer.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -51,7 +51,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-sass-converter
