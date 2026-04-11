@@ -3,7 +3,7 @@ permalink: /translation/
 title: "Translation"
 ---
 
-I translate literature and non-fiction from Korean to English, mainly drawn to works that contain feminist themes, social critique, and introspective reflection. My work has been supported by the Publication Industry Promotion Agency of Korea (KPIPA), and I am represented by [Ivan Mulcahy](https://www.internationalcreative.agency/ivan-mulcahy) and [Seo Park](https://www.internationalcreative.agency/seo-park) at International Creative Agency.      
+I translate fiction and non-fiction literature from Korean to English, mainly drawn to works that contain queer and feminist themes, social critique, trans/national histories, and introspective reflection. My work has been supported by the Publication Industry Promotion Agency of Korea (KPIPA), and I am represented by [Ivan Mulcahy](https://www.internationalcreative.agency/ivan-mulcahy) and [Seo Park](https://www.internationalcreative.agency/seo-park) at International Creative Agency.      
 
 **Fiction (samples and synopses)**  
 — My Crazy Feminist Girlfriend 나의 미친 페미니스트 여자친구 by Min Jihyoung  
@@ -15,4 +15,4 @@ I translate literature and non-fiction from Korean to English, mainly drawn to w
 — I Hope You Stay Uncomfortable: Feminist Essays 당신이 계속 불편하면 좋겠습니다: 홍승은 페미니즘 에세이 by Hong Seungeun  
 — Into Our New World: South Korean Women Protest in the Public Square 다시 만날 세계에서: 내란 사태에 맞서고 사유하는 여성들 by Bora Chung, Kang Yujeong, Kim Hoojoo, Oh Seyeon, Yoo Sunhye, Lee Seulgi, Lee Hana, Lim Jieun, Jeon Seungmin  
 
-
+_The samples and synopses above are available for inquiry by editors. Please reach out at jinrebekahchoi at gmail dot com._
