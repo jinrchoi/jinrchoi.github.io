@@ -5,16 +5,18 @@ layout: single
 classes: wide
 ---
 
-I have taught university-level classes in **communication** (public speaking, design); **race, gender, and sexuality**; and **capstone courses** providing individualized mentorship for final-year students. My pedagogy centers around my teaching philosophies of (1) fostering student-led learning, (2) nurturing curiosity beyond the classroom, and (3) prioritizing experimentation over mastery. Please reach out for a full teaching portfolio or sample course syllabi.  
+I have taught university-level classes in **communication** (theory, public speaking, writing, design, etc.); **race, gender, and sexuality**; and **capstone courses** providing individualized mentorship for final-year students. My pedagogy centers around my teaching philosophies of (1) fostering student-led learning, (2) nurturing curiosity beyond the classroom, and (3) prioritizing experimentation over mastery. Please reach out for a full teaching portfolio or sample course syllabi.  
 
 **University of Maryland: Design Cultures & Creativity honors program (2023-2025)**  
-Courses: Capstone Proposal Through Design Thinking; Practicum in Design Cultures & Creativity; Introduction to Design, Cultures, and Creativity (graduate assistant, led a practicum series)
+Instructor of record for courses: Capstone Proposal Through Design Thinking; Practicum in Design Cultures & Creativity  
+Graduate assistant for course: Introduction to Design, Cultures, and Creativity  
 
 **University of Maryland: Department of Communication (2022-2023)**    
-Course: Oral Communication: Principles and Practices  
+Instructor of record for course: Oral Communication - Principles and Practices    
+Curriculum development: Rhetorical Theories (upper level undergraduate course), revised with a task-force team, supported by Teaching Fellowship Grant (2024)  
 
 **Guest Lectures**  
-Courses: Asian American Women and Gender (University of Maryland, 2023 and 2024); Gender and Communication (Rikkyo University, 2024); Communication and Gender (University of Maryland, 2024)
+Courses: Asian American Women and Gender (University of Maryland, 2023 and 2024); Gender and Communication (Rikkyo University, 2024); Communication and Gender (University of Maryland, 2024)  
 
 **Teaching Awards and Certifications**  
 University of Maryland: Andrew D. Wolvin Outstanding Teaching Award; Anti-Racist Pedagogy Badge, Formative Assessments Badge, Teaching Essentials Badge from the Teaching and Learning Transformation Center
