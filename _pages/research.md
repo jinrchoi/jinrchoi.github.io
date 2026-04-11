@@ -24,4 +24,6 @@ National Communication Association; International Communication Association; Rhe
 
 **Public/Digital Humanities Projects**  
 — [“Transnational Public Memory: Unsettling National Museum Narratives of World War II.”](https://ashr.org/expanding-the-history-of-rhetoric-pedagogy-initiative/) Funded and hosted by American Society for the History of Rhetoric: Expanding the History of Rhetoric Pedagogy Initiative. Co-authored with Megu Itoh.  
-— [“Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.”](https://arcg.is/008aze) ArcGIS StoryMaps. 
+— [“Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.”](https://arcg.is/008aze) ArcGIS StoryMaps.  
+
+_You are welcome to [reach out](index.md) for my full CV or PDFs of my work if you do not have library access._
