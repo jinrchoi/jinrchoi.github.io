@@ -5,17 +5,19 @@ layout: single
 classes: wide
 ---
 
-I am interested in the communication of race, gender, sexuality, and nationhood in public discourse. My current research critically examines the rhetoric of the low fertility rate in contemporary South Korea, especially in the context of the maintenance of the "normative" family (정상가족 이데올로기).   
+I am interested in the communication of race, gender, sexuality, and nationhood in public discourse. My current research critically examines the rhetoric of the low fertility rate in contemporary South Korea, especially in the context of the maintenance of the heteronormative family.   
 
 **Research Areas**  
 Rhetoric and communication studies; transnational queer and feminist studies; critical Korean studies; race, nation, citizenship; Asia and Asian America; digital humanities and cultures
 
 **Selected Publications**  
+— "['Violent’ Feminism as Justification for Violent Misogyny: Gendered Violence and Anti-Feminist Backlash in Contemporary South Korea.](https://www.tandfonline.com/doi/abs/10.1080/17513057.2026.2653028)" In “Spectacles of Control: Gendered Violence across Cultures,” ed. Julia Khrebtan-Hörhager, special issue, _Journal of International and Intercultural Communication_, online first (2026): 53-56.  
 — "[The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes.](https://doi.org/10.1080/07491409.2025.2489609)" _Women's Studies in Communication_ 48 (3): 307–28.  
 — "[Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003452836-12/belong-ikseon-dong-jin-choi)" In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025.  
 
 **Selected Research Awards and Fellowships**  
 University of Maryland:  
+— Charles Richardson Outstanding Graduate Student Award (2026)   
 — Ann G. Wylie Dissertation Fellowship (2025)  
 — Bonnie Thornton Dill Dean's Graduate Research Award (2024)  
 — Flagship Fellowship (2020-2026)  
