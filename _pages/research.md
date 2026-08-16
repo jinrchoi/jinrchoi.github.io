@@ -5,18 +5,19 @@ layout: single
 classes: wide
 ---
 
-I am interested in the communication of race, gender, sexuality, and nationhood in public discourse. My current research critically examines the rhetoric of the low fertility rate in contemporary South Korea, especially in the context of the maintenance of the heteronormative family.   
+Jin is interested in the communication of race, gender, sexuality, and nationhood in public discourse. Her current research critically examines the rhetoric of the low fertility rate in contemporary South Korea, especially in the context of the maintenance of the heteronormative family.   
 
 **Research Areas**  
 Rhetoric and communication studies; transnational queer and feminist studies; critical Korean studies; race, nation, citizenship; Asia and Asian America; digital humanities and cultures
 
 **Selected Publications**  
+_For direct access to any of the articles below, please reach out at jinrebekahchoi at gmail dot com._  
 — "['Violent’ Feminism as Justification for Violent Misogyny: Gendered Violence and Anti-Feminist Backlash in Contemporary South Korea.](https://www.tandfonline.com/doi/abs/10.1080/17513057.2026.2653028)" In “Spectacles of Control: Gendered Violence across Cultures,” ed. Julia Khrebtan-Hörhager, special issue, _Journal of International and Intercultural Communication_, online first (2026): 53-56.  
 — "[The U.S. Empire Remembers Violence Against Asian Women: “Comfort Women” Monuments and Transnational Global Memoryscapes.](https://doi.org/10.1080/07491409.2025.2489609)" _Women's Studies in Communication_ 48 (3): 307–28.  
 — "[Do I Belong in Ikseon-Dong?: Glocalized Cosmopolitan Spaces of Belonging.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003452836-12/belong-ikseon-dong-jin-choi)" In _Diaspora Within Homeland: Displacement, Mobility, and Diversity in Korea_, edited by Min Hwa Han, Eun-Jeong Han, and JongHwa Lee. Routledge. 2025.  
 
 **Selected Research Awards and Fellowships**  
-University of Maryland:  
+University of Maryland    
 — Charles Richardson Outstanding Graduate Student Award (2026)   
 — Ann G. Wylie Dissertation Fellowship (2025)  
 — Bonnie Thornton Dill Dean's Graduate Research Award (2024)  
@@ -24,8 +25,6 @@ University of Maryland:
 National Communication Association  
 — James L. Golden Outstanding Student Essay in Rhetoric Award Laureate Group (2023)  
 — Top Paper Award, Korean American Communication Association (2021)  
-Gordon College  
-— Undergraduate Research Council Travel Grant (2019)  
 
 **Scholarly Communities and Affiliations**  
 National Communication Association; International Communication Association; Rhetoric Society of America; Association for Asian American Studies; Association for Asian Studies; Korean Association for LGBTQ+ and Queer Studies; Decolonizing Korean Studies Collective    
@@ -33,5 +32,3 @@ National Communication Association; International Communication Association; Rhe
 **Public/Digital Humanities Projects**  
 — "[Transnational Public Memory: Unsettling National Museum Narratives of World War II.](https://ashr.org/expanding-the-history-of-rhetoric-pedagogy-initiative/)" Funded and hosted by American Society for the History of Rhetoric: Expanding the History of Rhetoric Pedagogy Initiative. Co-authored with Megu Itoh.  
 — "[Comfort Women Monuments: A Transnational Global Memoryscape. A Digital Humanities Resource for Students and Educators.](https://arcg.is/008aze)" ArcGIS StoryMaps. Developed in connection to 2025 _Women's Studies in Communication_ article, in community with graduate seminar Feminist Memory Studies at the Intersection and shared at colloquium for Feminist Memory Working Group at the University of Maryland.  
-
-_You are welcome to reach out for my full CV or PDFs of my work if you do not have library access. Email me at jinrebekahchoi at gmail dot com._
