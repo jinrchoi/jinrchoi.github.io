@@ -6,6 +6,12 @@ layout: single
 author_profile: true
 ---
 
-Welcome! My name is Jin R. Choi (she/her), and I'm a scholar, teacher, and translator/writer conducting work in the fields of communication, transnational queer/feminist studies, critical Korean studies, and more. I hold a Ph.D. in Communication, an M.A. in Communication, and a Graduate Certificate in Digital Studies in the Arts and Humanities from the University of Maryland, as well as a B.A. in Sociology and Communication Arts from Gordon College. To contact me, please reach out at jinrebekahchoi at gmail dot com.  
+Jin R. Choi, Ph.D. (she/her) is a researcher, university lecturer, and Korean-to-English literary translator.  
+
+Her research and teaching are in the fields of communication, transnational queer/feminist studies, and critical Korean/Asian studies. She holds a Ph.D. and M.A. in Communication from the University of Maryland.
+
+She translates both fiction and non-fiction, open to captivating and timely stories across genres.  
+
+For inquiries, reach out at jinrebekahchoi at gmail dot com.  
 
 See more: [Research](/research/) / [Teaching](/teaching/) / [Translation](/translation/)
