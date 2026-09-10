@@ -29,3 +29,70 @@ h1, h2, h3 {
   color: #000; /* Black text color */
 }
 
+
+
+/* ---- Custom site nav: wraps tabs to a 2nd row on mobile instead of ---- */
+/* ---- hiding them behind the theme's default greedy-nav toggle.     ---- */
+.site-nav {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  min-height: $nav-height;
+  background: $background-color;
+}
+
+.site-nav .site-logo {
+  margin-inline-start: 0;
+  margin-inline-end: 0.5rem;
+}
+
+.site-nav .site-title {
+  margin-inline-start: 0;
+  color: $masthead-link-color;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-nav .visible-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav .masthead__menu-item a {
+  display: block;
+  margin: 0 1rem;
+  color: $masthead-link-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
+.site-nav .search__toggle {
+  margin-inline-start: auto;
+  align-self: center;
+  height: $nav-toggle-height;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+/* Below 600px: drop the tabs to their own full-width row so all three */
+/* stay visible instead of being clipped or hidden. */
+@media screen and (max-width: 600px) {
+  .site-nav .visible-links {
+    flex-basis: 100%;
+    order: 3;
+    margin-top: 0.5em;
+    justify-content: flex-start;
+  }
+
+  .site-nav .masthead__menu-item:first-child a {
+    margin-inline-start: 0;
+  }
+}
